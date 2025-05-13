@@ -2,6 +2,8 @@ https://www.fortinet.com/resources/cyberglossary/what-is-arp
 
 network interface cards (NICs)
 
+https://www.ti.com/lit/ta/sszt321/sszt321.pdf?ts=1747124893078&ref_url=https%253A%252F%252Fwww.bing.com%252F
+
 https://embeddedhardwaredesign.com/media-independent-interface-mii-and-rmi-in-ethernet/
 
 Ethernet switch
