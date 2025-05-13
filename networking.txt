@@ -32,3 +32,7 @@ https://www.microchip.com/en-us/product/ENC28J60
 Ethernet Controller with  PCIe Interface
 https://www.mouser.com/c/semiconductors/integrated-circuits-ics/communication-networking-ics/ethernet-ics/?interface%20type=PCIe&product=Ethernet%20Controllers
 https://www.mouser.com/datasheet/2/268/LAN7430_LAN7431_Data_Sheet_DS00002631-3500193.pdf
+
+PCIe protocol
+https://www.ti.com/lit/an/snla415/snla415.pdf?ts=1747100089914&ref_url=https%253A%252F%252Fwww.google.com%252F
+
