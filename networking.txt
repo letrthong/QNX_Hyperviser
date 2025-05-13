@@ -4,6 +4,8 @@ network interface cards (NICs)
 
 https://www.ti.com/lit/ta/sszt321/sszt321.pdf?ts=1747124893078&ref_url=https%253A%252F%252Fwww.bing.com%252F
 
+https://www.ti.com/lit/ta/ssztch5/ssztch5.pdf?ts=1747125306397&ref_url=https%253A%252F%252Fwww.bing.com%252F
+
 https://embeddedhardwaredesign.com/media-independent-interface-mii-and-rmi-in-ethernet/
 
 https://www.imperva.com/learn/application-security/osi-model/
