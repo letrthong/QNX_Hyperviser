@@ -16,3 +16,11 @@ https://www.imperva.com/learn/application-security/osi-model/
 
 Ethernet switch
 https://www.bing.com/search?q=automotive+ethernet+switch+press+kit&qs=HS&pq=aut&sc=12-3&cvid=F847B26F27F74C6E827F8078CE88860C&FORM=QBRE&sp=1&ghc=1&lq=0
+
+
+
+Network Interface Cards (NICs) typically include both a Media Access Control (MAC) layer and an Ethernet Physical (PHY) layer.
+
+MAC (Media Access Control) Layer: This layer is responsible for controlling how data is placed on and received from the network medium. It handles addressing and channel access control mechanisms, ensuring that data packets are correctly formatted and sent to the right destination.
+
+Ethernet PHY (Physical) Layer: This layer deals with the physical connection to the network. It converts the digital data from the MAC layer into signals that can be transmitted over the network medium (e.g., electrical signals for copper cables or light signals for fiber optics) and vice versa.
