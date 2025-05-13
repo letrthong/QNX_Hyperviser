@@ -6,5 +6,7 @@ https://www.ti.com/lit/ta/sszt321/sszt321.pdf?ts=1747124893078&ref_url=https%253
 
 https://embeddedhardwaredesign.com/media-independent-interface-mii-and-rmi-in-ethernet/
 
+https://www.imperva.com/learn/application-security/osi-model/
+
 Ethernet switch
 https://www.bing.com/search?q=automotive+ethernet+switch+press+kit&qs=HS&pq=aut&sc=12-3&cvid=F847B26F27F74C6E827F8078CE88860C&FORM=QBRE&sp=1&ghc=1&lq=0
