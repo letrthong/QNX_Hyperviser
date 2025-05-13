@@ -24,3 +24,8 @@ Network Interface Cards (NICs) typically include both a Media Access Control (MA
 MAC (Media Access Control) Layer: This layer is responsible for controlling how data is placed on and received from the network medium. It handles addressing and channel access control mechanisms, ensuring that data packets are correctly formatted and sent to the right destination.
 
 Ethernet PHY (Physical) Layer: This layer deals with the physical connection to the network. It converts the digital data from the MAC layer into signals that can be transmitted over the network medium (e.g., electrical signals for copper cables or light signals for fiber optics) and vice versa.
+
+https://www.microchip.com/en-us/product/ENC28J60
+ Ethernet Controller with SPI Interface
+
+AC164121 Ethernet PICtail Board
