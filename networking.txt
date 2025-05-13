@@ -2,7 +2,7 @@ https://www.fortinet.com/resources/cyberglossary/what-is-arp
 
 network interface cards (NICs)
 
-https://embeddedhardwaredesign.com/media-independent-interface-mii-and-rmi-in-ethernet/#google_vignette
+https://embeddedhardwaredesign.com/media-independent-interface-mii-and-rmi-in-ethernet/
 
 Ethernet switch
 https://www.bing.com/search?q=automotive+ethernet+switch+press+kit&qs=HS&pq=aut&sc=12-3&cvid=F847B26F27F74C6E827F8078CE88860C&FORM=QBRE&sp=1&ghc=1&lq=0
