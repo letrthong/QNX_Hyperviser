@@ -39,3 +39,4 @@ https://www.astronics.com/mini-pci-express-avionics-interface-cards
 PCIe protocol
 https://www.ti.com/lit/an/snla415/snla415.pdf?ts=1747100089914&ref_url=https%253A%252F%252Fwww.google.com%252F
 
+https://www.marvell.com/content/dam/marvell/en/company/media-kit/automotive/marvell-brightline-ethernet-switch-media-presentation.pdf
