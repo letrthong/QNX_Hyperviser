@@ -14,3 +14,6 @@ Audio Video Bridging (AVB)
   
 # eHSM (SGX Enclave Based Hardware Security Module)
 https://github.com/intel/ehsm
+
+# TCAM (Ternary Content Addressable Memory)
+https://community.cisco.com/t5/networking-knowledge-base/cam-content-addressable-memory-vs-tcam-ternary-content/ta-p/3107938
