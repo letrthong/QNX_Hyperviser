@@ -20,3 +20,6 @@ https://community.cisco.com/t5/networking-knowledge-base/cam-content-addressable
 
 # CLI 
 https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus5000/sw/configuration/guide/cli/CLIConfigurationGuide/begin.pdf
+
+#
+https://www.deditec.de/en/
