@@ -17,3 +17,6 @@ https://github.com/intel/ehsm
 
 # TCAM (Ternary Content Addressable Memory)
 https://community.cisco.com/t5/networking-knowledge-base/cam-content-addressable-memory-vs-tcam-ternary-content/ta-p/3107938
+
+# CLI 
+https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus5000/sw/configuration/guide/cli/CLIConfigurationGuide/begin.pdf
