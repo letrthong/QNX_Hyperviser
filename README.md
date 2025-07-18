@@ -28,3 +28,6 @@ https://www.deditec.de/en/
 
 # Networking
 https://www.qnx.com/developers/docs/8.0/com.qnx.doc.hypervisor.user/topic/use/use.html 
+
+# Config network
+https://www.qnx.com/developers/docs/8.0/com.qnx.doc.hypervisor.user/topic/network/network.html
