@@ -31,3 +31,6 @@ https://www.qnx.com/developers/docs/8.0/com.qnx.doc.hypervisor.user/topic/use/us
 
 # Config network
 https://www.qnx.com/developers/docs/8.0/com.qnx.doc.hypervisor.user/topic/network/network.html
+
+https://www.qnx.com/developers/docs/8.0/com.qnx.doc.neutrino.io_sock/topic/utilities.html
+https://www.qnx.com/developers/docs/8.0/com.qnx.doc.neutrino.io_sock/topic/overview_Filtering.html
